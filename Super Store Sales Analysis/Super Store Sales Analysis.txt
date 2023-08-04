@@ -1,0 +1,71 @@
+Super Store Sales Analysis using POWER BI
+
+
+
+Objective-
+
+To contribute to the success of a business by utilizing data analysis techniques, specifically focusing on time series analysis to provide valuable insights and accurate sales forecasting.
+
+
+
+Steps I followed in this Project:-
+
+
+
+1. Dashboard Creation:- 
+
+Identified the Kpis design of an intuitive and visually appealing dashboard and added interactive visualization and filtering capabilities to allow users to explore the data at various levels of granularity.
+
+
+
+2. Data Analysis:-
+
+Provided valuable insights to business entities regarding the effectiveness of their sales strategies through visualization and charts. Analyzed some columns like Return which have #N/A value and replaced it with 0.
+
+
+
+Added Average Delivery Days column and analyzed it.
+
+Added a new Table Sales Forecast using the DAX query.
+
+
+
+
+
+3. Sales Forecasting:-
+
+Leverage historical data applied time series and generated sales forecasting for the next 15 days.
+
+
+
+4. Actionable insights and recommendations:-
+
+The end goal is to find insights and actionable information that can derive strategic decision-making and support the supermarket's goals for growth, efficiency customer satisfaction, etc.
+
+  
+
+
+
+Conclusion:-
+
+Found that majority of Customers are from Consumer Section and maximum customers purchase in COD (Cash On Delivery)
+
+Profits are high in the October and November months.
+
+Sales also increased in the End of the year.
+
+Maximum Ship Mode is using Standard Class.
+
+
+
+Sales Forecasting:-
+
+The forecast has to have 5304 value
+
+Upper bound  9000+ value
+
+Lower bound 1000+ value
+
+
+
+California, New York, and Texas are the top 3 states which are giving the majority of sales.
